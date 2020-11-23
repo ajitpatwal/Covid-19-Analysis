@@ -1,6 +1,8 @@
 # Covid-19-Analysis
 Create A Data Pipeline Based On Messaging Using PySpark And Hive
 
+[Link to Covid-19 Dataset]{https://api.covid19api.com/summary}
+
 In this project Covid-19 Data is being visualized to compare the deaths by Countries in between Dates, Average of Total Deaths by Countries by Dates, Average of Countries total cases recovered by Date etc.
 
 Simulate a complex real-world data pipeline based on messaging. This project is deployed using the following tech stack - NiFi, PySpark, Hive, HDFS, Kafka, Airflow, Tableau and AWS QuickSight.
